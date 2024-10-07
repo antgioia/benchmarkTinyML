@@ -70,7 +70,7 @@ To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
 
-There are no specific prerequisites
+Python 3.10.12
 
 ### Installation
 
@@ -83,6 +83,9 @@ There are no specific prerequisites
    cd ml
    pip install -r requirements.txt
    ```
+3. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/ifigotin/imagenetmini-1000) and put it in the dataset/imagenet-mini directory.
+
+4. Download the image labels from [Kaggle](https://www.kaggle.com/datasets/akash2sharma/tiny-imagenet) and place the words.txt file in the dataset directory.
 ### Usage
 
 1. To create minimized models, run:
@@ -93,10 +96,16 @@ There are no specific prerequisites
    ```sh
    python benchmark.py
    ```
-3. For o conduct sustainability benchmark studies, run:
+3. For conduct sustainability benchmark studies, run:
    ```sh
-   python emissions.py
+   python energyConsumed.py
    ```
+   You can see the results in "energyConsumed" directory.
+4. For do a statistic test for sustainability studued, run:
+   ```sh
+   python energyConsumedAnalysis/energyConsumedAnalysis.py
+   ```
+   You can see the results in "energyConsumedAnalysis/result" directory.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
