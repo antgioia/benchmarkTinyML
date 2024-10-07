@@ -1,0 +1,9 @@
+Modello: alexnet
+Accuratezza: 0.6545
+Precisione: 0.6671
+Recall: 0.6545
+AUC-ROC: 0.9974
+Tempo di inferenza: 161.0821 secondi
+Throughput: 215.6974 immagini/secondo
+Dimensione del modello: 233.0870 MB
+--------------------------------------------------

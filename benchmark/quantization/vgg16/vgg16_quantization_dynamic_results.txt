@@ -1,0 +1,9 @@
+Modello: vgg16
+Accuratezza: 0.8316
+Precisione: 0.8374
+Recall: 0.8316
+AUC-ROC: 0.9995
+Tempo di inferenza: 1275.7664 secondi
+Throughput: 27.2346 immagini/secondo
+Dimensione del modello: 174.0869 MB
+--------------------------------------------------

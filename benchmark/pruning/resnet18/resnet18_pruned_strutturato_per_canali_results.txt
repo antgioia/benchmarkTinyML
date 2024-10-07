@@ -1,0 +1,10 @@
+Modello: resnet18
+Tecnica di Pruning: pruned_strutturato_per_canali
+Accuratezza: 0.7317
+Precisione: 0.7663
+Recall: 0.7317
+AUC-ROC: 0.9983
+Tempo di inferenza: 327.9511 secondi
+Throughput: 105.9457 immagini/secondo
+Dimensione del modello: 44.6693 MB
+--------------------------------------------------

@@ -1,0 +1,9 @@
+Modello: resnet18
+Accuratezza: 0.7824
+Precisione: 0.7902
+Recall: 0.7824
+AUC-ROC: 0.9989
+Tempo di inferenza: 325.0773 secondi
+Throughput: 106.8823 immagini/secondo
+Dimensione del modello: 44.6672 MB
+--------------------------------------------------

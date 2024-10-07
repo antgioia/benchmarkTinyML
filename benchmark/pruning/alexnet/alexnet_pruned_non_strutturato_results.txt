@@ -1,0 +1,10 @@
+Modello: alexnet
+Tecnica di Pruning: pruned_non_strutturato
+Accuratezza: 0.6416
+Precisione: 0.6578
+Recall: 0.6416
+AUC-ROC: 0.9972
+Tempo di inferenza: 160.1328 secondi
+Throughput: 216.9762 immagini/secondo
+Dimensione del modello: 233.0873 MB
+--------------------------------------------------

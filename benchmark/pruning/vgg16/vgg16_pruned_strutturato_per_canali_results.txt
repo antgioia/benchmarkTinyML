@@ -1,0 +1,10 @@
+Modello: vgg16
+Tecnica di Pruning: pruned_strutturato_per_canali
+Accuratezza: 0.5346
+Precisione: 0.6402
+Recall: 0.5346
+AUC-ROC: 0.9950
+Tempo di inferenza: 1270.7444 secondi
+Throughput: 27.3422 immagini/secondo
+Dimensione del modello: 527.8038 MB
+--------------------------------------------------
